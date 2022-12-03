@@ -7,7 +7,6 @@
     <link rel="icon" type="image/x-icon" href="http://i66.tinypic.com/2m5ff5j.png">
     
     
-    
     <meta name="keywords" content="ogofy,اوگوفای,offer,تخفیف"/>
     <meta name="discription" content="خرید تور,خرید تورآنلاین,تخفیف توخفیف,ر,اینترنتی,travel,سفر"/>
     
